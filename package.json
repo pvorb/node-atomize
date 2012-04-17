@@ -1,0 +1,27 @@
+{
+  "name": "atomize",
+  "description": "create atom feeds in js",
+  "author": "Paul Vorbach <paul@vorb.de> (http://vorb.de/)",
+  "tags": ["atom", "feed", "xml"],
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pvorb/node-atomize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pvorb/node-atomize/issues"
+  },
+  "main": "./atomize.js",
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://vorb.de/license/mit.html"
+    }
+  ],
+  "optionalDependencies": {}
+}

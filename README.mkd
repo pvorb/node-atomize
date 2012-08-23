@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/pvorb/node-atomize.png)](http://travis-ci.org/pvorb/node-atomize)
 # atomize
 
 Create atom xml feeds in JavaScript.
